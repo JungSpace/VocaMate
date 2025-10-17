@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365693745251",
+    "project_id": "vocamate-8ac50",
+    "storage_bucket": "vocamate-8ac50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365693745251:android:9e5c734bc28b20a4bc6056",
+        "android_client_info": {
+          "package_name": "com.example.ai_memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm89w6d5fJraTVu6i3UWsuy2Oqnur-Kbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
